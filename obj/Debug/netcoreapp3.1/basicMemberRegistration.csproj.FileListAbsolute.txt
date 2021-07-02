@@ -1,0 +1,17 @@
+E:\C#\basicMemberRegistration\basicMemberRegistration\bin\Debug\netcoreapp3.1\basicMemberRegistration.exe
+E:\C#\basicMemberRegistration\basicMemberRegistration\bin\Debug\netcoreapp3.1\basicMemberRegistration.deps.json
+E:\C#\basicMemberRegistration\basicMemberRegistration\bin\Debug\netcoreapp3.1\basicMemberRegistration.runtimeconfig.json
+E:\C#\basicMemberRegistration\basicMemberRegistration\bin\Debug\netcoreapp3.1\basicMemberRegistration.runtimeconfig.dev.json
+E:\C#\basicMemberRegistration\basicMemberRegistration\bin\Debug\netcoreapp3.1\basicMemberRegistration.dll
+E:\C#\basicMemberRegistration\basicMemberRegistration\bin\Debug\netcoreapp3.1\basicMemberRegistration.pdb
+E:\C#\basicMemberRegistration\basicMemberRegistration\obj\Debug\netcoreapp3.1\basicMemberRegistration.csproj.AssemblyReference.cache
+E:\C#\basicMemberRegistration\basicMemberRegistration\obj\Debug\netcoreapp3.1\basicMemberRegistration.allMembers.resources
+E:\C#\basicMemberRegistration\basicMemberRegistration\obj\Debug\netcoreapp3.1\basicMemberRegistration.Form1.resources
+E:\C#\basicMemberRegistration\basicMemberRegistration\obj\Debug\netcoreapp3.1\basicMemberRegistration.csproj.GenerateResource.cache
+E:\C#\basicMemberRegistration\basicMemberRegistration\obj\Debug\netcoreapp3.1\basicMemberRegistration.AssemblyInfoInputs.cache
+E:\C#\basicMemberRegistration\basicMemberRegistration\obj\Debug\netcoreapp3.1\basicMemberRegistration.AssemblyInfo.cs
+E:\C#\basicMemberRegistration\basicMemberRegistration\obj\Debug\netcoreapp3.1\basicMemberRegistration.csproj.CoreCompileInputs.cache
+E:\C#\basicMemberRegistration\basicMemberRegistration\obj\Debug\netcoreapp3.1\basicMemberRegistration.dll
+E:\C#\basicMemberRegistration\basicMemberRegistration\obj\Debug\netcoreapp3.1\basicMemberRegistration.pdb
+E:\C#\basicMemberRegistration\basicMemberRegistration\obj\Debug\netcoreapp3.1\basicMemberRegistration.genruntimeconfig.cache
+E:\C#\basicMemberRegistration\basicMemberRegistration\obj\Debug\netcoreapp3.1\basicMemberRegistration.addMembers.resources
